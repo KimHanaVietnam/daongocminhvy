@@ -1,0 +1,40 @@
+{
+    "community_books": [
+        {
+            "id": "CB01",
+            "title": "Bear town 2 - Chúng tôi đối đầu với các bạn",
+            "author": "Fredrik Backman",
+            "owner": "DG01",
+            "category": "Văn học",
+            "status": "available",
+            "image": "images/community_books/cb01.jpg"
+        },
+        {
+            "id": "CB02",
+            "title": "Cuộc đấu trí ở tầm cao của trí tuệ Việt Nam",
+            "author": "Trần Nhâm",
+            "owner": "DG03",
+            "category": "Lịch sử",
+            "status": "borrowed",
+            "image": "images/community_books/cb02.jpg"
+        },
+        {
+            "id": "CB03",
+            "title": "50 ý tưởng lớn bạn thực sự cần biết",
+            "author": "Ben Dupré",
+            "owner": "ADMIN",
+            "category": "Khoa học",
+            "status": "requested",
+            "image": "images/community_books/cb03.jpg"
+        },
+        {
+            "id": "CB04",
+            "title": "Kinh tế học vi mô",
+            "author": "N Gregory Mankiw",
+            "owner": "ADMIN",
+            "category": "Kinh tế",
+            "status": "available",
+            "image": "images/community_books/cb04.jpg"
+        }
+    ]
+}

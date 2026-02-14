@@ -1,0 +1,49 @@
+{
+    "students": [
+        {
+            "id": "DG01",
+            "name": "Đào Ngọc Minh Vy",
+            "email": "vydao@uel.edu.vn",
+            "mssv": "K254060738",
+            "major": "Hệ thống thông tin quản lý",
+            "join_date": "10/02/2026",
+            "status": "active"
+        },
+        {
+            "id": "DG02",
+            "name": "Trần Võ Thu Trang",
+            "email": "trangtran@uel.edu.vn",
+            "mssv": "K254060730",
+            "major": "Luật kinh tế",
+            "join_date": "15/09/2025",
+            "status": "inactive"
+        },
+        {
+            "id": "DG03",
+            "name": "Đặng Phương Vy",
+            "email": "vydang@uel.edu.vn",
+            "mssv": "K254060739",
+            "major": "Hệ thống thông tin quản lý",
+            "join_date": "08/01/2026",
+            "status": "active"
+        },
+        {
+            "id": "DG04",
+            "name": "Lê Đình Quý Phương",
+            "email": "phuongle@uel.edu.vn",
+            "mssv": "K254060720",
+            "major": "Kinh tế đối ngoại",
+            "join_date": "13/10/2025",
+            "status": "active"
+        },
+        {
+            "id": "DG05",
+            "name": "Trịnh Lê Tú",
+            "email": "tutrinh@uel.edu.vn",
+            "mssv": "K24409123",
+            "major": "Kiểm toán",
+            "join_date": "09/12/2024",
+            "status": "active"
+        }
+    ]
+}

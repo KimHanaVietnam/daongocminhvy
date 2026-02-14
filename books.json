@@ -1,0 +1,70 @@
+{
+    "books": [
+        {
+            "id": "B01",
+            "title": "Miền Nam trong trái tim Hồ Chí Minh",
+            "author": "Trần Văn Giàu",
+            "category": "Lịch sử",
+            "code": "MS1001",
+            "total_quantity": 10,
+            "available_quantity": 2,
+            "image": "images/books/b01.jpg",
+            "rate": 4.4
+        },
+        {
+            "id": "B02",
+            "title": "Tổng hành dinh trong mùa xuân toàn thắng",
+            "author": "Đại tướng Võ Nguyên Giáp",
+            "category": "Lịch sử",
+            "code": "MS1002",
+            "total_quantity": 3,
+            "available_quantity": 0,
+            "image": "images/books/b02.jpg",
+            "rate": 5.0
+        },
+        {
+            "id": "B03",
+            "title": "Kỹ năng vận dụng pháp luật lao động tại doanh nghiệp",
+            "author": "Nguyễn Thị Hồng",
+            "category": "Pháp luật",
+            "code": "MS1003",
+            "total_quantity": 7,
+            "available_quantity": 1,
+            "image": "images/books/b03.jpg",
+            "rate": 4.2
+        },
+        {
+            "id": "B04",
+            "title": "Nguyễn An Ninh: ”Không ăn mày tự do”",
+            "author": "Trần Viết Nghĩa",
+            "category": "Chính luận",
+            "code": "MS1004",
+            "total_quantity": 5,
+            "available_quantity": 5,
+            "image": "images/books/b04.jpg",
+            "rate": 4.8
+        },
+        {
+            "id": "B05",
+            "title": "Ngôi làng cổ mộ",
+            "author": "Thục Linh",
+            "category": "Văn học",
+            "code": "MS1005",
+            "total_quantity": 1,
+            "available_quantity": 1,
+            "image": "images/books/b05.jpg",
+            "rate": 3.7
+        },
+        {
+            "id": "B06",
+            "title": "Giáo trình cơ sở thiết kế vi mạch",
+            "author": "Hoàng Trang",
+            "category": "Công nghệ",
+            "code": "MS1006",
+            "total_quantity": 7,
+            "available_quantity": 3,
+            "image": "images/books/b06.jpg",
+            "rate": 3.9
+        }
+    ]
+}

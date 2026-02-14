@@ -1,0 +1,32 @@
+{
+    "requests": [
+        {
+            "id": "R01",
+            "student_id": "DG01",
+            "book_id": "CB02",
+            "time": "19:35 08/02/2026",
+            "status": "pending"
+        },
+        {
+            "id": "R02",
+            "student_id": "DG03",
+            "book_id": "B02",
+            "time": "10:04 08/02/2026",
+            "status": "rejected"
+        },
+        {
+            "id": "R03",
+            "student_id": "DG01",
+            "book_id": "CB04",
+            "time": "05:36 08/02/2026",
+            "status": "approved"
+        },
+        {
+            "id": "R04",
+            "student_id": "DG04",
+            "book_id": "B02",
+            "time": "18:59 08/02/2026",
+            "status": "pending"
+        }
+    ]
+}

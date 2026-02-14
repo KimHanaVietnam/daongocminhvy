@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "id": "DG01",
+            "emal": "vydao@uel.edu.vn",
+            "password": "vydao1234",
+            "name": "Đào Ngọc Minh Vy",
+            "role": "student",
+            "status": "active"
+        },
+        {
+            "id": "DG02",
+            "email": "trangtran@uel.edu.vn",
+            "password": "tranghihi_",
+            "name": "Trần Võ Thu Trang",
+            "role": "student",
+            "status": "inactive"
+        },
+        {
+            "id": "DG03",
+            "email": "vydang@uel.edu.vn",
+            "password": "PHUONGVY8386",
+            "name": "Đặng Phương Vy",
+            "role": "student",
+            "status": "active"
+        },
+        {
+            "id": "DG04",
+            "email": "phuongle@uel.edu.vn",
+            "password": "071013@",
+            "name": "Lê Đình Quý Phương",
+            "role": "student",
+            "status": "active"
+        },
+        {
+            "id": "DG05",
+            "email": "tutrinh@uel.edu.vn",
+            "password": "244466666",
+            "name": "Trịnh Lê Tú",
+            "role": "student",
+            "status": "active"
+        },
+        {
+            "id": "ADMIN",
+            "email": "admin.uel@gmail.com",
+            "password": "k25406",
+            "name": "AD",
+            "role": "admin",
+            "status": "active"
+        }
+    ]
+}

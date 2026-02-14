@@ -1,0 +1,84 @@
+{
+    "borrow_record": [
+        {
+            "id": "BR01",
+            "student_id": "DG01",
+            "book_id": "B04",
+            "borrow_date": "08/02/2026",
+            "due_date": "31/03/2026",
+            "status": "borrowing"
+        },
+        {
+            "id": "BR02",
+            "student_id": "DG03",
+            "book_id": "CB02",
+            "borrow_date": "23/12/2025",
+            "due_date": "09/01/2026",
+            "status": "overdue"
+        },
+        {
+            "id": "BR03",
+            "student_id": "DG01",
+            "book_id": "CB04",
+            "borrow_date": "15/01/2026",
+            "due_date": "15/02/2026",
+            "status": "returned"
+        },
+        {
+            "id": "BR04",
+            "student_id": "DG02",
+            "book_id": "B04",
+            "borrow_date": "29/01/2026",
+            "due_date": "11/02/2026",
+            "status": "returned"
+        },
+        {
+            "id": "BR05",
+            "student_id": "DG05",
+            "book_id": "B07",
+            "borrow_date": "02/02/2026",
+            "due_date": "02/03/2026",
+            "status": "borrowing"
+        },
+        {
+            "id": "BR06",
+            "student_id": "DG06",
+            "book_id": "CB01",
+            "borrow_date": "20/01/2026",
+            "due_date": "05/02/2026",
+            "status": "overdue"
+        },
+        {
+            "id": "BR07",
+            "student_id": "DG07",
+            "book_id": "B02",
+            "borrow_date": "05/02/2026",
+            "due_date": "20/02/2026",
+            "status": "returned"
+        },
+        {
+            "id": "BR08",
+            "student_id": "DG08",
+            "book_id": "CB03",
+            "borrow_date": "01/02/2026",
+            "due_date": "18/02/2026",
+            "status": "borrowing"
+        },
+        {
+            "id": "BR09",
+            "student_id": "DG09",
+            "book_id": "B05",
+            "borrow_date": "28/01/2026",
+            "due_date": "10/02/2026",
+            "status": "returned"
+        },
+        {
+            "id": "BR10",
+            "student_id": "DG10",
+            "book_id": "CB05",
+            "borrow_date": "25/01/2026",
+            "due_date": "07/02/2026",
+            "status": "overdue"
+        }
+    ]
+}
