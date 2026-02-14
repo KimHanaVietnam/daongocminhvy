@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/Media-Library--Streamline-Micro.png</file>
+    <file>icons/log-out.svg</file>
+    <file>icons/settings.svg</file>
+    <file>icons/School--Streamline-Outlined-Streamline-Material-Free.svg</file>
+    <file>icons/align-center.svg</file>
+    <file>icons/align-justify.svg</file>
+    <file>icons/book-open.svg</file>
+    <file>icons/eye.svg</file>
+    <file>icons/globe.svg</file>
+    <file>icons/grid.svg</file>
+    <file>icons/search.svg</file>
+    <file>icons/shopping-bag.svg</file>
+    <file>icons/user.svg</file>
+    <file>icons/users.svg</file>
+  </qresource>
+</RCC>
